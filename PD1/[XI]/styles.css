@@ -1,0 +1,55 @@
+#maincontainer{
+  display: grid;
+  grid-template-columns:1fr 1fr 1fr;
+  grid-template-rows:100px 100px 100px;
+  gap:5px;
+}
+
+
+#item1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background-color: lightblue;
+}
+
+#item2 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background-color: lightcoral;
+ 
+}
+
+#item3 {
+  background-color: lightgreen;
+  
+}
+
+#item4 {
+  background-color: lightpink;
+ 
+}
+
+#item5 {
+  background-color: lightgray;
+
+}
+
+#item6 {
+  background-color: lightyellow;
+
+}
+
+#item7 {
+  background-color: lightcyan;
+  
+}
+
+#item8 {
+  background-color: lightgoldenrodyellow;
+
+}
+
+#item9 {
+  background-color: lightseagreen;
+
+}
