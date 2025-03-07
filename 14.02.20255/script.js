@@ -13,7 +13,7 @@ if(x == y)
 }
 */
 
-let number =prompt("enter number");
+
 if(number>0)
 {
  console.log("number,ir goat")
@@ -21,7 +21,7 @@ if(number>0)
 
 if(number<0)
 {
-    console.log(number,"ir Negativs");
+    console.log(number,"ir Negativs")let number =prompt("enter number");;
 }
 if (number==0)
 {

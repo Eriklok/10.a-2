@@ -100,8 +100,8 @@ switch(m)
 }
     */
 
-
-let m= prompt("ievadi valutu: ");
+/*
+let m= prompt("ievadi valUtu: ");
 switch(m)
 {
     case "USD" : 
@@ -116,3 +116,27 @@ switch(m)
     console.log("Lielbritānijas mārciņa");
     break;
 }      
+    */
+/*
+Massivs
+let arr =[1,2,3,4,5];
+let arrlastitem = arr.length -1;
+
+console.log(arr);
+console.log(arr[0]);
+console.log(arr[arrlastitem]);
+
+arr.push(6);
+console.log(arr);
+
+arr.unshift(0);
+console.log(arr);
+
+arr.pop(arr.pop());
+console.log(arr);
+
+arr.shift();
+console.log(arr);
+*/
+
+
